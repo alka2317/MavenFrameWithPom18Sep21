@@ -6,13 +6,13 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 
+import extentlistener.HtmlReportt;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import testpage.BaseClass;
 import testpage.LoginPage;
 import testpage.LogoutPage;
 
 public class BaseTest extends BaseClass {
- 
 
 	@BeforeSuite
 	public void initializingWebEnv() {

@@ -13,7 +13,6 @@ public class BaseClass {
 	protected LogoutPage logout;
 	protected ChromeOptions options;
 	
-	
     public void waitFor(int seconds) {
     	waiting = new WebDriverWait(driver, 30);
     	waiting.withTimeout(seconds, TimeUnit.SECONDS);

@@ -2,34 +2,34 @@
 <testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-22T09:37:50 IST" name="Suite" finished-at="2021-12-22T09:38:01 IST" duration-ms="10601">
+  <suite started-at="2021-12-24T14:46:04 IST" name="Suite" finished-at="2021-12-24T14:46:17 IST" duration-ms="12991">
     <groups>
     </groups>
-    <test started-at="2021-12-22T09:37:50 IST" name="Test" finished-at="2021-12-22T09:38:01 IST" duration-ms="10601">
+    <test started-at="2021-12-24T14:46:04 IST" name="Test" finished-at="2021-12-24T14:46:17 IST" duration-ms="12991">
       <class name="testclass.LoginTest">
-        <test-method is-config="true" signature="initializingWebEnv()[pri:0, instance:testclass.LoginTest@503d687a]" started-at="2021-12-22T09:37:44 IST" name="initializingWebEnv" finished-at="2021-12-22T09:37:50 IST" duration-ms="6290" status="PASS">
+        <test-method is-config="true" signature="initializingWebEnv()[pri:0, instance:testclass.LoginTest@7bd7d6d6]" started-at="2021-12-24T14:45:45 IST" name="initializingWebEnv" finished-at="2021-12-24T14:46:04 IST" duration-ms="18548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializingWebEnv -->
-        <test-method is-config="true" signature="pageObjects()[pri:0, instance:testclass.LoginTest@503d687a]" started-at="2021-12-22T09:37:50 IST" name="pageObjects" finished-at="2021-12-22T09:37:50 IST" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="pageObjects()[pri:0, instance:testclass.LoginTest@7bd7d6d6]" started-at="2021-12-24T14:46:04 IST" name="pageObjects" finished-at="2021-12-24T14:46:04 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageObjects -->
-        <test-method signature="verifyLogin()[pri:1, instance:testclass.LoginTest@503d687a]" started-at="2021-12-22T09:37:50 IST" name="verifyLogin" finished-at="2021-12-22T09:37:55 IST" duration-ms="4671" status="PASS">
+        <test-method signature="verifyLogin()[pri:1, instance:testclass.LoginTest@7bd7d6d6]" started-at="2021-12-24T14:46:04 IST" name="verifyLogin" finished-at="2021-12-24T14:46:10 IST" duration-ms="6549" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="tearDownEnv()[pri:0, instance:testclass.LoginTest@503d687a]" started-at="2021-12-22T09:38:01 IST" name="tearDownEnv" finished-at="2021-12-22T09:38:06 IST" duration-ms="5650" status="PASS">
+        <test-method is-config="true" signature="tearDownEnv()[pri:0, instance:testclass.LoginTest@7bd7d6d6]" started-at="2021-12-24T14:46:17 IST" name="tearDownEnv" finished-at="2021-12-24T14:46:23 IST" duration-ms="5642" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownEnv -->
       </class> <!-- testclass.LoginTest -->
       <class name="testclass.LogoutTest">
-        <test-method is-config="true" signature="pageObjects()[pri:0, instance:testclass.LogoutTest@6a370f4]" started-at="2021-12-22T09:37:55 IST" name="pageObjects" finished-at="2021-12-22T09:37:55 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="pageObjects()[pri:0, instance:testclass.LogoutTest@43f02ef2]" started-at="2021-12-24T14:46:10 IST" name="pageObjects" finished-at="2021-12-24T14:46:10 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageObjects -->
-        <test-method signature="verifyLogout()[pri:2, instance:testclass.LogoutTest@6a370f4]" started-at="2021-12-22T09:37:55 IST" name="verifyLogout" finished-at="2021-12-22T09:38:01 IST" duration-ms="5888" status="PASS">
+        <test-method signature="verifyLogout()[pri:2, instance:testclass.LogoutTest@43f02ef2]" started-at="2021-12-24T14:46:10 IST" name="verifyLogout" finished-at="2021-12-24T14:46:17 IST" duration-ms="6394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogout -->

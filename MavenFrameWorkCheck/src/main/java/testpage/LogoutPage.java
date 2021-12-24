@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LogoutPage extends BaseClass{
 
+	WebDriver driver;
 	@FindBy(id="welcome")
 	private WebElement dropdown;
 	
